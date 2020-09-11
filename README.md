@@ -1,2 +1,2 @@
 # Machine Learning
-Repository no: 1
+This repository contains data file from the Machine Laerning course I enrolled in Kaggle.
